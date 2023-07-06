@@ -119,3 +119,4 @@ while True:
             print('Выход')   
             break              
     # print('='*200 + '/n')
+    # print('='*200 + '/n')
